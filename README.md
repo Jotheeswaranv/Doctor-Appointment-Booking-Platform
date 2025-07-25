@@ -4,7 +4,7 @@ Welcome to the Joe Sparkle Plus project repository! This is a React-based websit
 
 ## Project Overview
 
-- **Website**: [Joe Sparkle Plus](" http://localhost:3000/joe sparkle-Plus")
+- **Website**: [Joe Sparkle Plus]("  http://localhost:3000/Health-Plus")
 - **Framework**: React.js
 - **Deployment**: GitHub Pages
 - **Libraries**: React-Toastify, React Router DOM, FontAwesomeIcon
@@ -21,7 +21,7 @@ Welcome to the Joe Sparkle Plus project repository! This is a React-based websit
 
 ### Hero Section
 
-![Health-Plus Image-1](https://i.postimg.cc/0Q4839KN/Health-Plus-Image1.png)
+![Joe_Sparkle Image-1](https://i.postimg.cc/0Q4839KN/Health-Plus-Image1.png)
 
 ### Information Section
 

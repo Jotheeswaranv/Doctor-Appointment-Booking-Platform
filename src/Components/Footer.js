@@ -86,12 +86,12 @@ function Footer() {
       </div>
 
       <div className="ft-copyright">
-        <p>© 2004-2025 Joe Sparkle. All rights reserved.</p>
+        <p>© 2024-2025 Joe Sparkle. All rights reserved.</p>
 
         <ul className="ft-social-links">
           <li>
             <a
-              href="https://linkedin.com/in/Alkaison/"
+              href="https://linkedin.com/in/jotheeswaranv/"
               title="LinkedIn"
               target="_blank"
               rel="noopener noreferrer"

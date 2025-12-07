@@ -5,7 +5,7 @@ Welcome to the Joe Sparkle Plus project repository! This is a React-based websit
 ## Project Overview
 
 - **Website**: [Joe Sparkle Plus](http://localhost:3000/Health-Plus)
-- [View Presentation](Online Doctor Appointment Booking.pptx)
+- [View Presentation](https://github.com/Jotheeswaranv/Doctor-Appointment-Booking-Platform/blob/main/Online%20Doctor%20Appointment%20Booking.pptx)
 - **Framework**: React.js
 - **Deployment**: GitHub Pages
 - **Libraries**: React-Toastify, React Router DOM, FontAwesomeIcon
